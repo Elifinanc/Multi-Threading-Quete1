@@ -58,7 +58,7 @@ namespace MultiThreadingQuete1
             SharedInteger += timeSpan.Milliseconds;
             Thread.Sleep(timeSpan); // Simulate computing by waiting a random period of time
             mutex.ReleaseMutex(); // Release when computing is done
-            Console.WriteLine("\nCurrent thread name: {0} , and current thread id : {1} ", Thread.CurrentThread.Name, Thread.CurrentThread.ManagedThreadId);
+            Console.WriteLine("\nCurrent thread name: {0} , and current thread id : {1} has finished first", Thread.CurrentThread.Name, Thread.CurrentThread.ManagedThreadId);
         }
     }
 }
