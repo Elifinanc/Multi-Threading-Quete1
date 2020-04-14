@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadingQuete1", "MultiThreadingQuete1\MultiThreadingQuete1.csproj", "{DCDE3166-48FE-4E42-8F68-DC0D05CAC5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDE3166-48FE-4E42-8F68-DC0D05CAC5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDE3166-48FE-4E42-8F68-DC0D05CAC5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDE3166-48FE-4E42-8F68-DC0D05CAC5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDE3166-48FE-4E42-8F68-DC0D05CAC5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB8BD49-C914-44FB-AC4E-AAA46DC7075C}
+	EndGlobalSection
+EndGlobal
